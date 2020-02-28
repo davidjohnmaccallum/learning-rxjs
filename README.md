@@ -7,5 +7,5 @@ I am learning RxJS by going through the [documentation](https://rxjs-dev.firebas
 ```sh
 npm install
 node server.js
-ts-node creationOperators.ts # Use the if statements to switch the on/off each section.
+ts-node src/creationOperators.ts # Use the if statements to switch the on/off each section.
 ```
